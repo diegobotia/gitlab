@@ -73,6 +73,7 @@
 
 
 		</plugins>
+		<finalName>gitlab</finalName>
 	</build>
 
 </project>

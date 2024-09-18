@@ -68,11 +68,7 @@
 					</execution>
 				</executions>
 			</plugin>
-
-
-
-
-		</plugins>
+           </plugins>
 		<finalName>gitlab</finalName>
 	</build>
 
